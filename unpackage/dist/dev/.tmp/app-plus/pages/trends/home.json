@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "hot": "/pages/components/hot",
+    "trend-scroll-view": "/pages/components/trendScrollView",
+    "interest-circle": "/pages/components/InterestCircle"
+  }
+}
